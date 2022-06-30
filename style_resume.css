@@ -1,0 +1,23 @@
+body{
+    background-color: #e1f8f3fd;
+    font-family:serif;
+}
+
+h1{
+    color: #bf6666;
+}
+
+h3{
+    color: #bf6666;
+}
+h4{
+    color: #bf6666;
+}
+hr{
+    border-style: dotted;
+    border-color: grey;
+    width: 40%;
+    height: 0px;
+    border-width: 5px 0px 0px 0px ;
+    margin-left: 5px;
+}
